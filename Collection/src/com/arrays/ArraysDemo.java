@@ -54,6 +54,7 @@ public class ArraysDemo {
 	System.out.println(l.set(0, "D"));
 	System.out.println(l);
 	l.add("q");
+	System.out.println("Hello India");
 	
 	
 	
