@@ -56,6 +56,7 @@ public class ArraysDemo {
 	l.add("q");
 	System.out.println("Hello India");
 		System.out.println("Hello Good Morning");
+		System.out.println("Hello Good Night");
 	
 	
 	
